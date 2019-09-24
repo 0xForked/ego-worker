@@ -1,0 +1,6 @@
+# Folders
+/vendor
+.idea/
+
+# file
+.env
